@@ -33,6 +33,6 @@ Un nuevo método imprimir que retorna el saldo de la cuenta, la comisión mensua
 
 ## Requisitos
 
-### [Diagrama UML de clases:](src\main\resources\Diagrama cuenta de banco.png)
+### [Diagrama UML de clases:](https://github.com/NaudelynLucena/Kata-Cuenta-Bancaria/blob/main/src/main/resources/Diagrama%20cuenta%20de%20banco.png)
 
 Tests unitarios obligatorios (cobertura mínima 70%).
